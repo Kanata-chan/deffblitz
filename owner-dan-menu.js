@@ -21,10 +21,10 @@ module.exports.helpMenu = (pushname) =>{
 *「 FITUR BOT 」*
 
 \`\`\`• !owner
-• !addsewa
-• !delsewa
-• !ceksewa
-• !listsewa
+• !addsewa [Khusus Owner]
+• !delsewa [Khusus Owner]
+• !ceksewa [Khusus Owner]
+• !listsewa [Khusus Owner]
 • !pay
 • !setpay
 • !list
@@ -36,8 +36,8 @@ module.exports.helpMenu = (pushname) =>{
 • !kurang
 • !kali
 • !bagi
-• !setproses
-• !changeproses
+• !setproses 
+• !changeproses 
 • !delsetproses
 • !setdone
 • !changedone
